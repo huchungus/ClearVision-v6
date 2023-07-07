@@ -5,7 +5,7 @@
   --danger-color: #982929;
   --url-color: #00BCD4;
   --undefined: 0;
-  --background-image: url('https://i.imgur.com/lYPXuQ9.jpg');
+  --background-image: ;
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
@@ -40,7 +40,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://i.imgur.com/DUKZyDv.gif');
+  --home-icon: ;
   --home-position: center;
   --home-size: 60px;
   --channel-unread: var(--main-color);
